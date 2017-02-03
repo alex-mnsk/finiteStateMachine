@@ -1,4 +1,4 @@
-lass FSM {
+class FSM {
     /**
      * Creates new FSM instance.
      * @param config
